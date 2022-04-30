@@ -1,0 +1,21 @@
+{
+  "name": "coursedog-events",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber"
+  ],
+  "author": "Mahammad",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

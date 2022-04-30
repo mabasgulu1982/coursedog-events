@@ -1,0 +1,6 @@
+{
+    "env": {
+        "url": "https://damian-events.coursedog.com/"
+    },
+    "testFiles": "**/*.feature"
+}
